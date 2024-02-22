@@ -1,0 +1,1 @@
+Crie um ambiente virtual [py venv] para instalar os módulos e packages necessários para o sistema funcionar e rode-o ;)
